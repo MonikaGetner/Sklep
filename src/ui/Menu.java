@@ -21,12 +21,12 @@ public class Menu {
 	System.out.println(" opcja 3 - Usun produkt");
 	System.out.println(" opcja 4 - Zmodyfikuj towar");
 	System.out.println(" opcja 5 - Dodaj szkolenie ");
-///	System.out.println(" opcja 7 - Zmodyfikuj szkolenie ");
 	System.out.println(" opcja 8 - Wyswietl RABAT ");
 	System.out.println(" opcja 9 - Wyswietl CERTYFIKAT ");	
 	
 	System.out.println(" q - Koniec programu");
 		
+	
 	Scanner skaner = new Scanner(System.in);
 	String wybor;
 	
